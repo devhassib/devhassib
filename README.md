@@ -94,7 +94,14 @@ B[AI & ML Learning]
 C[Open Source]
 D[Backend Systems]
 
-A --> React+Node
-A --> Django+Python
-B --> TensorFlow
-B --> Neural Networks
+A --> A1[React + Node]
+A --> A2[Django + Python]
+
+B --> B1[TensorFlow]
+B --> B2[Neural Networks]
+
+C --> C1[GitHub Contributions]
+C --> C2[Open Source Collaboration]
+
+D --> D1[REST APIs]
+D --> D2[Databases]
