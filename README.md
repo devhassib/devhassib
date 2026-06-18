@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=DARK%20TEAM%20OWNER&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20Enthusiast%20|%20Open%20Source%20Lover&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Developer;PHP+Developer;Full+Stack+Developer;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=DARK+TEAM+OWNER;Python+Developer;JavaScript+Developer;PHP+Developer;Full+Stack+Developer;Always+Learning+New+Tech" />
 
 ---
 
